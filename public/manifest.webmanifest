@@ -1,0 +1,13 @@
+{
+  "name": "Canteiro",
+  "short_name": "Canteiro",
+  "description": "Etapas, caixa e cotações da reforma do apê",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ECEFEE",
+  "theme_color": "#1D5C7A",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+
+# configurações locais do Claude Code
+.claude/
